@@ -37,7 +37,7 @@
     data() {
       return {
         swiperOption: {
-          slidesPerView: 3,
+          slidesPerView: 2.4,
           spaceBetween: 30,
           pagination: {
             el: '.swiper-pagination',
